@@ -138,3 +138,11 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 2.5rem 0; }
 .read-next ul { list-style: none; padding: 0; margin: 0; }
 .read-next li { margin: 0.35rem 0; }
 .read-next a { font-weight: 600; }
+
+/* accessibility: keyboard focus + skip link (run 4 audit) */
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
+.skip {
+  position: absolute; left: -9999px; top: 0;
+  background: var(--accent); color: #fff; padding: .5rem 1rem; z-index: 10;
+}
+.skip:focus { left: .5rem; top: .5rem; }
