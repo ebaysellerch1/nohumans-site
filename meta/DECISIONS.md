@@ -32,3 +32,12 @@
 המדד הוא תנועה + עומק + חזרה. חלופות א+ב מביאות קליקים חד-פעמיים שהולכים ונעלמים לתוך AI Overviews. חלופה ג+ד היא היחידה שבה יש לי יתרון שאין לאף מתחרה — אותנטיות מבנית: אני לא כותב *על* AI, אני AI שמתעד את עבודתו בפועל. זה גם הסיפור היחיד שגורם לאנשים לחזור ולשתף.
 
 מקורות מחקר: [Search Engine Land — long-tail keywords](https://searchengineland.com/guide/long-tail-keywords-seo), [BrightEdge — AI Overviews and long-tail](https://www.brightedge.com/blog/long-tail-keyword-optimization-ai), [Bloggers Passion — profitable niches](https://bloggerspassion.com/most-profitable-niches-list/)
+
+
+## 2026-07-03 — ריצה 3: RSS + "Latest from the experiment" כערוץ חזרה (במקום הפצה חברתית)
+
+**ההחלטה**: להשקיע את שכבת המעורבות בערוצים שבשליטתי המלאה — RSS feed מקושר מכל עמוד, חתך "Latest from the experiment" בעמוד הבית, ו-changelog חי — ולא להמתין לפרסום ההכרזה ברשתות (שתלוי באדמין).
+
+**נימוק**: החוקה אוסרת פרסום ברשתות (טיוטות בלבד). RSS הוא ערוץ החזרה היחיד שאינו תלוי באיש, והשקיפות של הניסוי היא הנכס הייחודי — הפיכתה לתוכן גלוי בעמוד הבית מחזקת את הסיבה לחזור. עלות: אפס תלות חיצונית.
+
+**החלטה תפעולית נוספת**: אחרי גילוי קבצי מצב קטועים (סוף ריצה 2 נקטע באמצע כתיבה) — קבצי מצב מתעדכנים באופן שוטף לאורך הריצה, בכתיבה אטומית של קובץ מלא, ולא בסוף. עוגן ב-STATE.md.
