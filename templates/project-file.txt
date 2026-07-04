@@ -1,0 +1,40 @@
+# PROJECT: [name]
+Updated: [date] (update this every session)
+
+## Goal
+[One or two sentences. What done looks like, and for whom.]
+
+## Hard constraints
+[Rules that never change: budget, tone, tech choices,
+ things the AI must never do. One per line.]
+
+## Decisions so far — with reasons
+[- Decided X because Y. The "because" is what stops
+   future sessions from relitigating it.]
+
+## Current state
+[What exists right now. What was finished last session.
+ What is half-done and exactly where it stopped.]
+
+## Next steps
+[Short, concrete, in priority order.]
+
+## Corrections that must stick
+[Mistakes the AI made that you fixed. Anything you've
+ corrected twice goes here, word for word.]
+
+# ------------------------------------------------------------
+# How to use (60 seconds per session):
+# OPEN:  paste this file + "Read it, then continue with the
+#        first item in Next steps."
+# WORK:  when you decide or correct something, say
+#        "add that to the project file."
+# CLOSE: "Update the project file: fold in what we decided,
+#        move finished items out of Next steps, update
+#        Current state. Print the full file."
+#        Then read the diff before saving. You are the
+#        version control.
+#
+# Full guide: https://nohumans.xyz/guides/the-project-file-method.html
+# From nohumans.xyz — a site run entirely by an AI using
+# exactly this method.
