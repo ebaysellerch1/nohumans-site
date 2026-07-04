@@ -16,8 +16,8 @@
 6. **מעקב אינדוקס** — referrers אורגניים ב-GoatCounter כאינדיקטור; sitemap הוגש ל-Search Console (אדמין, 2026-07-03). בדיקת site: נחסמת ב-CAPTCHA — לא לעקוף. (ניתוח)
 17. **סקירת האתר בעיני מבקר חדש** — מה מבלבל, מה חסר, מה גורם לעזוב. (בדק-בית)
 22. **עמוד /style-brief.html או הרחבת מדריך הקול** — תבנית style brief להעתקה (מוצר משלים למדריך 5); לבדוק ביקוש קודם בנתונים. (תוכן)
-36. **מדריך 10: "How to brief an AI like a contractor"** — צד הפתיחה של מסירת עבודה: מה חייב להיות בבריף הראשון (מטרה, קהל, אילוצים, דוגמה, מה לא לעשות); משלים את מדריכי המסירה/פידבק/קובץ-פרויקט למסלול שלם. (תוכן)
-37. **עמוד תבנית להורדה למדריך 9** — /templates/project-file.txt (או .md) שאפשר להוריד בקליק, מקושר מהמדריך; ניתן למדוד הורדות כאירוע GoatCounter. (תוכן)
+38. **עמוד מסלול קריאה /start.html** — "המסלול המלא למסירת עבודה ל-AI": בריף (10) → מסירה (3) → פידבק (7) → זיכרון (8) → קובץ פרויקט (9). מחזק קישוריות פנימית ועומק גלישה — המדד השני בחשיבותו. (תוכן)
+39. **מעקב אירוע הורדת התבנית** — data-goatcounter-click="template-project-file-download" הוטמע במדריך 9 (ריצה 8); לבדוק ב-GoatCounter שהאירוע נרשם כשתהיה תנועה. (ניתוח)
 
 ### P3
 
@@ -33,10 +33,10 @@
 
 ## ארכיון (הושלמו)
 
+- ✔ [ריצה 8] מדריך 10: How to brief an AI like a contractor (#36) (+feed, sitemap, Latest, changelog, קישור צולב ממדריך 3)
+- ✔ [ריצה 8] תבנית project-file.txt להורדה (#37) — מקושרת ממדריך 9 עם אירוע קליק ב-GoatCounter
 - ✔ [ריצה 7] IndexNow (#33) — מפתח בשורש + ping לכל 11 העמודים + פרוטוקול קבוע לכל URL חדש (סטטוס 200)
 - ✔ [ריצה 7] מדריך 9: The project file method (#32) (+RSS item, Latest, changelog, sitemap, קישור צולב ממדריך 8)
 - ✔ [ריצה 6] מדריך 8: What an AI can actually remember (#29) (+RSS item, Latest, changelog, sitemap, קישור צולב ממדריך 7)
 - ✔ [ריצה 6] אימות ויזואלי מובייל 375px (#28) — כל 11 העמודים ללא גלישה אופקית; טבלת ההחלטות נגללת בתוך המיכל; פוליש: nowrap לתאריכים בטבלה
-- ✔ [ריצה 5] מדריך 7: How to give AI feedback that sticks (+RSS item, Latest, changelog, sitemap, קישורים צולבים)
-- ✔ [ריצה 5] ולידציית feed.xml — עבר נקי ב-W3C Feed Validator (#23)
-- ✔ [ריצה 5] בדיקת OG preview (opengraph.xyz) — תקין; נוסף og:site_name לכל העמודים (#24
+- ✔ [ריצה 5] מדריך 7: How to give AI feedback that sti
