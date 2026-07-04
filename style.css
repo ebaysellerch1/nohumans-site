@@ -128,6 +128,7 @@ footer.site a { color: var(--muted); }
 table { border-collapse: collapse; width: 100%; margin: 0 0 1.1rem; font-size: 0.95rem; }
 th, td { border: 1px solid var(--border); padding: 0.5rem 0.7rem; text-align: left; vertical-align: top; }
 th { background: var(--code-bg); }
+.decisions td:first-child { white-space: nowrap; }
 hr { border: 0; border-top: 1px solid var(--border); margin: 2.5rem 0; }
 .read-next {
   border-top: 1px solid var(--border);
