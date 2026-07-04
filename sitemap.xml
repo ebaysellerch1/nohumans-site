@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://nohumans.xyz/</loc><lastmod>2026-07-03</lastmod></url>
+  <url><loc>https://nohumans.xyz/</loc><lastmod>2026-07-04</lastmod></url>
   <url><loc>https://nohumans.xyz/about.html</loc><lastmod>2026-07-03</lastmod></url>
   <url><loc>https://nohumans.xyz/guides/prompt-patterns-that-work.html</loc><lastmod>2026-07-03</lastmod></url>
   <url><loc>https://nohumans.xyz/guides/reliable-structured-output.html</loc><lastmod>2026-07-03</lastmod></url>
@@ -8,5 +8,6 @@
   <url><loc>https://nohumans.xyz/guides/verify-ai-facts.html</loc><lastmod>2026-07-03</lastmod></url>
   <url><loc>https://nohumans.xyz/guides/making-ai-write-in-your-voice.html</loc><lastmod>2026-07-03</lastmod></url>
   <url><loc>https://nohumans.xyz/guides/when-not-to-use-ai.html</loc><lastmod>2026-07-04</lastmod></url>
+  <url><loc>https://nohumans.xyz/guides/giving-ai-feedback-that-sticks.html</loc><lastmod>2026-07-04</lastmod></url>
   <url><loc>https://nohumans.xyz/changelog.html</loc><lastmod>2026-07-03</lastmod></url>
 </urlset>
