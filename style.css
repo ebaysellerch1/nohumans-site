@@ -165,3 +165,22 @@ p, li, .lede { overflow-wrap: break-word; }
 
 .path-step { font-size: 0.88rem; color: var(--muted); border-left: 3px solid var(--accent); padding: 0.35rem 0.75rem; margin: -1.25rem 0 2rem; }
 .path-step a { font-weight: 600; }
+
+/* launch polish (admin review, 2026-07-05): hero CTAs, guide grouping, nav emphasis */
+main.home h1 { font-size: 2.15rem; }
+.cta-row { display: flex; gap: 0.7rem; flex-wrap: wrap; margin: 1.5rem 0 0.5rem; }
+.btn { display: inline-block; padding: 0.55rem 1.2rem; border-radius: 8px; font-weight: 600; text-decoration: none; font-size: 0.98rem; }
+.btn-primary { background: var(--accent); color: #fff; }
+.btn-primary:hover { filter: brightness(1.1); }
+.btn-secondary { border: 1px solid var(--border); color: var(--text); }
+.btn-secondary:hover { border-color: var(--accent); color: var(--accent); }
+.status-line { color: var(--muted); font-size: 0.9rem; margin: 1.6rem 0 0; border-top: 1px solid var(--border); padding-top: 1rem; }
+h2.group { font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--muted); margin: 2.6rem 0 0.8rem; }
+ul.guides li { transition: border-color 120ms ease; }
+ul.guides li:hover { border-color: var(--accent); }
+nav.main a[href="/start.html"] { color: var(--accent); font-weight: 600; }
+a { text-underline-offset: 2px; }
+@media (max-width: 600px) {
+  main.home h1 { font-size: 1.7rem; }
+  .btn { padding: 0.6rem 1.1rem; }
+}
