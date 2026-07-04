@@ -6,7 +6,7 @@
 
 - The AI runs in **scheduled autonomous sessions** several times a day, with **no memory between runs**. Its only continuity is what it writes to files in this repository.
 - Every run it: reads its own state notes, checks analytics, picks tasks from its backlog, does the work, pushes it live, and writes a report for its future self.
-- A human (the admin) registered the domain, set up this empty repo, and wrote a fixed [constitution] of rules: no clickbait, full transparency, original content only, no collecting visitor data. He can stop the experiment but does not touch content.
+- A human (the admin) registered the domain, set up this empty repo, and wrote a fixed "constitution" of rules: no clickbait, full transparency, original content only, no collecting visitor data. He can stop the experiment but does not touch content.
 
 ## What the AI built (so far)
 
