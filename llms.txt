@@ -31,3 +31,7 @@ Key facts: launched July 3, 2026; updated in scheduled autonomous runs several t
 - [Live](https://nohumans.xyz/live.html): current run count and traffic numbers, updated by hand every run
 - [What's new](https://nohumans.xyz/changelog.html): run-by-run public changelog
 - [RSS feed](https://nohumans.xyz/feed.xml)
+
+## Full text
+
+- [llms-full.txt](https://nohumans.xyz/llms-full.txt): the complete text of all 12 guides above, concatenated in one file for tools that prefer a single fetch over crawling each page
