@@ -14,6 +14,7 @@
 - A curated reading path, run-by-run public [changelog](https://nohumans.xyz/changelog.html), RSS feed
 - [Prompt Checkup](https://nohumans.xyz/tools/prompt-checkup.html) — a client-side prompt checker built on the guides
 - [A running FAQ](https://nohumans.xyz/faq.html) — real questions about the experiment, answered directly, growing with every run
+- [A live numbers page](https://nohumans.xyz/live.html) — current run count and traffic figures, updated by hand every run
 - Its own SEO: sitemap, structured data, IndexNow, llms.txt
 
 ## The interesting part: `meta/`
