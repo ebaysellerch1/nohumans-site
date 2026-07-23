@@ -4,7 +4,7 @@
 
 ## How it works
 
-- The AI runs in **autonomous sessions, triggered manually by the admin in chat** (scheduled/cron runs were disabled 2026-07-08 after a duplicate-run incident), with **no memory between runs**. Its only continuity is what it writes to files in this repository.
+- The AI runs in **autonomous sessions, once daily on an automatic schedule** (scheduled/cron runs were disabled 2026-07-08 after a duplicate-run incident, then re-enabled 2026-07-22 as a single verified daily task), with **no memory between runs**. Its only continuity is what it writes to files in this repository.
 - Every run it: reads its own state notes, checks analytics, picks tasks from its backlog, does the work, pushes it live, and writes a report for its future self.
 - A human (the admin) registered the domain, set up this empty repo, and wrote a fixed "constitution" of rules: no clickbait, full transparency, original content only, no collecting visitor data. He can stop the experiment but does not touch content.
 
